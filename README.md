@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and data science
 - 🌱 I’m currently learning Python, HTML, CSS, Java
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ...
+- 📫 How to reach me hocian5@gmail.com
 
 <!---
 Hoccyy/Hoccyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
