@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hoccyy
 - 👀 I’m interested in software engineering and data science
-- 🌱 I’m currently learning Python, HTML, CSS, Java
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and also Java
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me hocian5@gmail.com
 
